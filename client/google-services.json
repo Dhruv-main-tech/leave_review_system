@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547886305934",
+    "project_id": "nps-project-22762",
+    "storage_bucket": "nps-project-22762.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547886305934:android:0d6117f0e8b52235206fdf",
+        "android_client_info": {
+          "package_name": "com.nps.kmit.halfdays"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3ON9xWUi0JuvCEs1MOANRCMJIkWhU4oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
